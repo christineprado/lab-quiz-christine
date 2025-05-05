@@ -1,0 +1,5 @@
+1. Slow Internet Speeds
+2. Intermittent Connectivity
+3. IP Address Conflicts
+4. DNS Issues
+5. Hardware Failures
